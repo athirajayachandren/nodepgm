@@ -1,0 +1,23 @@
+{
+  "name": "nodepgms",
+  "version": "1.0.0",
+  "description": "this is my first pgm",
+  "main": "Addmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athirajayachandren/nodepgm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athirajayachandren/nodepgm/issues"
+  },
+  "homepage": "https://github.com/athirajayachandren/nodepgm#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.0"
+  }
+}
